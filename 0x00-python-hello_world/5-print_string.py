@@ -2,4 +2,5 @@
 str = "Holberton School"
 print(3 * str .format(str)
 
-print(str[:9]) 
+print(str[:9])
+
