@@ -5,5 +5,6 @@ if number >= 0 :
     print(number." is: POSITIVE")
 if number <  0 :
     print(number."is : NEGATIVE")
-if number ==,0 :
+if number == 0 :
     print(number." is :ZERO")
+
