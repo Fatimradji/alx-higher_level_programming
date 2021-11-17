@@ -2,4 +2,4 @@
 
 for b in range(ord('a'),ord('z') +1):
 
-    print("{:c}".format(c), end="")
+    print("{:b}".format(b), end="")
